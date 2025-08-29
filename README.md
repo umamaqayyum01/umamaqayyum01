@@ -60,49 +60,36 @@ Currently researching **Federated & De-Federated Learning** to build **privacy-p
 ---
 
 ### 🔹 Highlighted Projects & Internships
+### 🔹 Highlighted Projects & Internships  
 
-<p></p>
-  <kbd>🚀 FYP Project – Repository Of Reasrach Groups (WIKI-RG)</kbd><br>
-  Research Groups Wiki (RG)
+- 🚀 **FYP – Repository of Research Groups (WIKI-RG)**  
+  Centralized platform for managing research groups with role-based access, publications, and events.  
+  *Tech:* React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, HTTPS  
 
-A centralized platform for managing and showcasing research groups. RG allows group managers, members, and visitors to:
+- 💻 **Internship – NASTP**  
+  Worked on **AI model development, preprocessing, and UI/UX integration** in ongoing projects.  
 
-Maintain group profiles, members, and publications
+- 🎨 **Internship – Learning Horizon**  
+  Designed **UI/UX prototypes & marketing graphics** using **Figma & Canva**.  
 
-Upload and manage research papers and multimedia
+- 🏫 **Teaching Assistant – Iqra University**  
+  Supported courses like **HCI**, mentored students, and assisted in labs.  
 
-Organize events and announcements
+- 🖥️ **Internship – OGDCL**  
+  Hands-on experience in **IT infrastructure, system maintenance, and database support**.  
 
-Support role-based access: managers, members, visitors, admins
+- 🎨 **UI/UX Projects**  
+  Created Figma/Canva projects focusing on **usability & design principles**.  
 
-Technologies: React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, HTTPS
+- 🤖 **ML Projects**  
+  Built and evaluated models (**CNNs, Regression, Perceptron**) with proper preprocessing.  
 
-Objective: Streamline collaboration, documentation, and visibility of research work for research groups.<br><br>
+- 🔬 **Federated Learning Research**  
+  Ongoing research on **Federated & De-Federated Learning** for privacy-preserving AI.  
 
-  <kbd>💻 Internship – NASTP</kbd><br>
-  Working on Software Engineering & AI projects including AI model development, data preprocessing, and UI/UX integration.<br><br>
+- 📊 **Software Engineering Work**  
+  Designed **UML diagrams, requirement docs, and testing workflows**.  
 
-  <kbd>🎨 Internship – Learning Horizon</kbd><br>
-  Remote Graphic Designer: Created visual content, UI/UX designs, and marketing graphics using Figma & Canva.<br><br>
-
-  <kbd>🏫 Internship – Iqra University</kbd><br>
-  Teaching Assistant: Assisted Software Engineering courses like Human Computer Interaction, mentored students, and supported lab exercises.<br><br>
-
-  <kbd>🖥️ Internship – OGDCL</kbd><br>
-  Experience in IT infrastructure, system maintenance, and database support.<br><br>
-
-  <kbd>🎨 UI/UX </kbd><br>
-  Figma/Canva project demonstrating UI/UX principles and usability.<br><br>
-
-  <kbd>🤖 ML Projects overview</kbd><br>
-  AI model training including data preprocessing, model building, and evaluation.<br><br>
-
-  <kbd>🔬 Federated Learning Research</kbd><br>
-  Ongoing research on Federated & De-Federated Learning for privacy-preserving AI.<br><br>
-
-  <kbd>📊 Software Engineering Work</kbd><br>
-  Created UML diagrams, requirement docs, and testing workflows.
-</p>
 
 ## 🔬 Research Interests  
 <p align="center">
