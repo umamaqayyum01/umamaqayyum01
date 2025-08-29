@@ -51,11 +51,8 @@ Currently researching **Federated & De-Federated Learning** to build **privacy-p
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### 🔹 Highlighted Projects & Internships
-- 🚀 **FYP – Repository of Research Groups (WIKI-RG)**  
-  Centralized platform for managing research groups with role-based access, publications, and events.  
-  *Tech:* React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, HTTPS  
 
+### 🔹 Highlighted Projects & Internships
 - 💻 **Internship – NASTP**  
   Worked on **AI model development, preprocessing, and UI/UX integration** in ongoing projects.  
 
@@ -67,6 +64,10 @@ Currently researching **Federated & De-Federated Learning** to build **privacy-p
 
 - 🖥️ **Internship – OGDCL**  
   Hands-on experience in **IT infrastructure, system maintenance, and database support**.  
+
+- 🚀 **FYP – Repository of Research Groups (WIKI-RG)**  
+  Centralized platform for managing research groups with role-based access, publications, and events.  
+  *Tech:* React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, HTTPS  
 
 - 🎨 **UI/UX Projects**  
   Created Figma/Canva projects focusing on **usability & design principles**.  
