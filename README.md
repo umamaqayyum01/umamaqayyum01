@@ -104,12 +104,25 @@ Objective: Streamline collaboration, documentation, and visibility of research w
   Created UML diagrams, requirement docs, and testing workflows.
 </p>
 
+## 🔬 Research Interests  
+<p align="center">
+  <img src="https://img.shields.io/badge/Explainable_AI_(XAI)-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision_in_Healthcare-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning_Optimization-FF7F50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model_Transparency-2F4F4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_for_Real_World_Impact-6B8E23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medical_Imaging_Segmentation_&_Classification-CD5C5C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large_Language_Models_(LLMs)-20B2AA?style=for-the-badge" />
+</p>
+
+## 🤝 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umama-qayyum-618176300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/umama-qayyum-618176300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:umamaqayyum655@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
