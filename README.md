@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umama Abdul Qayyum</h1>
 <h3 align="center">Software Engineer | UI/UX Designer | AI & ML Enthusiast</h3>
 
----
-
 ### 🔹 About Me
 I am a passionate Software Engineering student from Pakistan 🇵🇰, specializing in **UI/UX Design, AI & Machine Learning, and Software Engineering**.  
 Currently researching **Federated & De-Federated Learning** to build **privacy-preserving AI models** and actively engaged in my **Artificial Intelligence Internship at NASTP**.  
-
----
 
 ### 🔹 Focus Areas
 <p align="center">
@@ -18,8 +14,6 @@ Currently researching **Federated & De-Federated Learning** to build **privacy-p
   <img src="https://img.shields.io/badge/Explainable_AI-20B2AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software_Engineering-0077B5?style=for-the-badge" />
 </p>
-
----
 
 ### 🔹 Skills & Tools
 <p align="center">
@@ -57,11 +51,7 @@ Currently researching **Federated & De-Federated Learning** to build **privacy-p
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
----
-
 ### 🔹 Highlighted Projects & Internships
-### 🔹 Highlighted Projects & Internships  
-
 - 🚀 **FYP – Repository of Research Groups (WIKI-RG)**  
   Centralized platform for managing research groups with role-based access, publications, and events.  
   *Tech:* React.js, Node.js, Express.js, MongoDB, JWT, bcrypt, HTTPS  
